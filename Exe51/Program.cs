@@ -55,7 +55,7 @@ namespace Exe51
             {
                 Console.Clear();
                 Console.WriteLine("Bem vindo à nossa loja");
-                Console.WriteLine("1-Listar marcas");
+                Console.WriteLine("1-Listar marcas Carros");
                 Console.WriteLine("2-Listar carros de uma marca ordenadamente");
                 Console.WriteLine("3-Cadastrar marca");
                 Console.WriteLine("4-Cadastrar carro");
